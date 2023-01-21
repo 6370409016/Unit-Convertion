@@ -1,0 +1,117 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #ebf0ef;
+  background: rgb(219,135,118);
+background: linear-gradient(90deg, rgba(219,135,118,1) 0%, rgba(247,245,251,1) 0%, rgba(225,241,241,1) 0%);
+}
+
+
+
+/*********** Navbar********/
+
+.navbar{
+  padding: 20px;
+  background-color: #8EA7E9;
+  margin-bottom: 30px;
+
+}
+
+.nav-text{
+  font-family:'Ubuntu', sans-serif;
+  padding: 20px;
+margin: auto;
+}
+
+
+
+/************* Convertion side **********/
+.convt{
+  margin: auto;
+  align-items: center;
+  align-items: center;
+  height: auto;
+  width: 600px;
+  margin-top: 30px;
+}
+.head-part{
+  text-align: center;
+  padding: 30px;
+  background-color: #F6F6F6;
+  border-radius: 10px;
+}
+
+
+input{
+  background-color: #F1F6F5;
+  padding: 12px;
+  border-radius: 30px;
+}
+
+.btn{
+  margin: 10px;
+  padding: 10px;
+}
+
+.display{
+
+}
+
+/*******kg- pound *******/
+.kg-pound{
+  padding: 20px;
+  text-align: center;
+  margin: 20px 0 10px 0;
+  height:auto;
+  background-color: #A5C9CA;
+  border-radius: 30px;
+}
+
+
+.unit-text{
+  font-family: 'Ubuntu', sans-serif;
+  padding: 10px;
+}
+
+.kg-p{
+  padding: 10px;
+}
+
+/********** litre- Gallons ********/
+.Lit-Gal{
+  padding: 20px 0 10px 0;
+  margin: 20px 0 10px;
+ text-align: center;
+  height:auto;
+  background-color: #A5C9CA;
+  border-radius: 30px;
+}
+
+.Lit-p{
+  padding: 10px;
+}
+
+/***************** Meter- feet *********/
+.Met-Fet{
+  padding: 20px 0 10px 0;
+  margin: 20px 0 10px;
+ text-align: center;
+  height:auto;
+  background-color: #A5C9CA;
+  border-radius: 30px;
+}
+
+.Met-p{
+  padding: 10px;
+}
+
+/****************** Footer ***********/
+.copyright{
+  position: relative;
+  text-align: center;
+  padding: 20px;
+}
+.copyright-message{
+  position: relative;
+
+}
